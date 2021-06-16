@@ -1,0 +1,20 @@
+site_name: OpenCan
+nav:
+  - 'Start':
+    - 'Introduction': 'index.md'
+  - 'Learn':
+    - 'Overview': 'learn.md'
+    - 'Creating a new IC app': 'getting-started.md'
+    - 'Sudograph': 'Sudograph.md'
+  - 'In-review':
+    - 'ICIP-20': 'ICIP-20.md'
+    - 'ICIP-721': 'ICIP-721.md'
+    - "Cycles": 'Cycles.md'
+    - "ICIP-1": 'ICIP-1.md'
+    - "Motoko-Token": 'motoko-token.md'
+  - 'Tools':
+    - 'fungible-tokens.md'
+    - 'non-fungible-tokens.md'
+theme:
+    name: 'mkdocs'
+    custom_dir: 'custom_theme/'
